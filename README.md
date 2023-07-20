@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="top" src="./img/top.png" width="150" />
+    <img alt="top" src="./img/top.png" width="150" style="border-radius: 25px;" />
     <br/>
     <h1>ZROI23-C</h1>
     <h3>💎 Zheng-Rui-OI 2023 Summer C training code.</h3>
