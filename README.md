@@ -11,8 +11,7 @@
     <br/>
     <img alt="size" src="https://img.shields.io/github/repo-size/hellolin-oi/zroi23?style=for-the-badge&color=darkslateblue">
     <img alt="commits" src="https://img.shields.io/github/commit-activity/t/hellolin-oi/zroi23?style=for-the-badge&color=red">
-    <img alt="contri" src="https://img.shields.io/github/contributors/hellolin-oi/zroi23
-?style=for-the-badge&color=goldenrod">
+    <img alt="contri" src="https://img.shields.io/github/contributors/hellolin-oi/zroi23?style=for-the-badge&color=goldenrod">
     <br/>
     <br/>
     <a href="https://vjudge.net/article/3852" target="_blank">VJudge 补题 Workbook</a>
