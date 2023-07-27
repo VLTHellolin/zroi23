@@ -254,10 +254,11 @@
 
 - 讲师：李昕然
 
-- 题目：9 + 3 = 12 道
+- 题目：10 + 3 = 13 道
 
 #### 例题
 
+[problem:洛谷-P1962]
 [problem:AtCoder-tdpc_fibonacci]
 [problem:洛谷-P4719]
 [problem:POJ-3233]
