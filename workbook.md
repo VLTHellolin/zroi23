@@ -250,7 +250,7 @@
 
 ### Day11 - 2023.07.27
 
-- 专题：矩阵乘法dp、\*常系数齐次线性递推、\*动态dp
+- 专题：矩阵乘法dp、常系数齐次线性递推 $^\dag$、动态dp $^\dag$
 
 - 讲师：李昕然
 
@@ -275,8 +275,31 @@
 [problem:CodeForces-1458C]
 [problem:CodeForces-954F]
 
+### Day12 - 2023.07.28
+
+- 欢乐 ACM 赛。
+
+- [比赛链接](https://vjudge.net/contest/570501)
+
+- 整理：徐锐扬
+
+- 题目：11 道
+
+- 时长：5 小时
+
+- 人数：最多 3 人/队
+
+- 气球：有
+
+- 高爸：无
+
+---
+
+$^\dag$: 带有此标记的内容是选讲内容。
+
+---
+
 <div align="center">
-<hr/>
 <i>Copyright since 2022 <a href="https://hellolin.cf/">hellolin</a>.</i>
 <br/>
 <i><a href="https://github.com/hellolin-oi/zroi23" target=“_blank”>This project</a> is licensed under the <a href="https://github.com/hellolin-oi/zroi23/blob/main/LICENSE" target="_blank">MIT License</a>.</i>
