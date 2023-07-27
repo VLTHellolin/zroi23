@@ -247,3 +247,36 @@
 [problem:洛谷-P3628]
 [problem:CodeForces-932F]
 [problem:CodeForces-833B]
+
+### Day11 - 2023.07.27
+
+- 专题：矩阵乘法dp、\*常系数齐次线性递推、\*动态dp
+
+- 讲师：李昕然
+
+- 题目：9 + 3 = 12 道
+
+#### 例题
+
+[problem:AtCoder-tdpc_fibonacci]
+[problem:洛谷-P4719]
+[problem:POJ-3233]
+[problem:CodeForces-917C]
+[problem:洛谷-P6772]
+[problem:CodeForces-1420C2]
+[problem:Gym-103470E]
+[problem:CodeForces-1182E]
+[problem:CodeForces-1286D]
+
+#### 作业
+
+[problem:CodeForces-1380F]
+[problem:CodeForces-1458C]
+[problem:CodeForces-954F]
+
+<div align="center">
+<hr/>
+<i>Copyright since 2022 <a href="https://hellolin.cf/">hellolin</a>.</i>
+<br/>
+<i><a href="https://github.com/hellolin-oi/zroi23" target=“_blank”>This project</a> is licensed under the <a href="https://github.com/hellolin-oi/zroi23/blob/main/LICENSE" target="_blank">MIT License</a>.</i>
+</div>
