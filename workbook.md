@@ -287,11 +287,17 @@
 
 - 时长：5 小时
 
-- 人数：最多 3 人/队
-
-- 气球：有
-
-- 高爸：无
+[problem:Gym-100418H]
+[problem:Gym-104090D]
+[problem:Gym-100418A]
+[problem:Gym-100418C]
+[problem:Gym-104160D]
+[problem:Gym-104090C]
+[problem:Gym-100418D]
+[problem:Gym-103960K]
+[problem:Gym-100418J]
+[problem:Gym-104160L]
+[problem:Gym-103960I]
 
 ---
 
