@@ -1,6 +1,8 @@
 
 [我的写题代码仓库](https://github.com/hellolin-oi/zroi23)
 
+![](https://img.shields.io/github/license/hellolin-oi/zroi23?style=for-the-badge&color=green) ![](https://img.shields.io/github/forks/hellolin-oi/zroi23?style=for-the-badge&color=darkgreen) ![](https://img.shields.io/github/commit-activity/t/hellolin-oi/zroi23?style=for-the-badge&color=red)
+
 ## Important | Read first
 
 请选择右上角的 `Mixed View` 获得最好的阅读体验。  
@@ -275,20 +277,44 @@
 
 - 专题：乘法逆元、同余、exgcd、线性代数基础、BSGS $^\ddag$、原根 $^\ddag$
 - 讲师：叶子川
-- 题目：12 道
+- 题目：13 道
 
-[problem:洛谷-P5656] exGCD
-[problem:洛谷-P1495] CRT
-[problem:洛谷-P4777] exCRT
-[problem:洛谷-P4774]
-[problem:洛谷-P3811] 乘法逆元
-[problem:洛谷-P5431] 乘法逆元 2
-[problem:洛谷-P3807] Lucas 定理
+[problem:洛谷-P3811]
+[problem:洛谷-P5431]
+[problem:洛谷-P5656]
+[problem:洛谷-P1495]
 [problem:洛谷-P2480]
-[problem:洛谷-P3846] BSGS
-[problem:洛谷-P4195] exBSGS
-[problem:洛谷-P6091] 原根
-[problem:洛谷-P1919] FFT
+[problem:洛谷-P3807]
+[problem:洛谷-P3773]
+[problem:洛谷-P3846]
+[problem:AtCoder-arc156_d]
+[problem:洛谷-P4195]
+[problem:洛谷-P6091]
+[problem:Gym-104090I]
+[problem:CodeChef-CHEFMOD] BONUS
+
+### Day14 - 2023.07.30
+
+- 专题：筛法（埃⽒筛、线性筛、杜教筛、min25筛 $^\dag$）、莫⽐乌斯反演、狄利克雷卷积
+- 讲师：To be updated
+- 题目：To be updated
+
+[problem:AtCoder-abc170_d]
+[problem:洛谷-P3455]
+[problem:洛谷-P2522]
+[problem:洛谷-P3911]
+[problem:洛谷-P2257]
+[problem:洛谷-P1447]
+[problem:洛谷-P1829]
+[problem:洛谷-P3327]
+[problem:洛谷-P4213]
+[problem:洛谷-P5325]
+[problem:LibreOJ-6053]
+[problem:SPOJ-DIVCNT3]
+[problem:LibreOJ-6714]
+[problem:LibreOJ-6686]
+[problem:洛谷-P1587]
+
 
 ---
 
