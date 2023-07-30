@@ -1,7 +1,9 @@
 
-[我的写题代码仓库](https://github.com/hellolin-oi/zroi23)
+[我的写题代码仓库](https://github.com/hellolin-oi/zroi23) ![](https://img.shields.io/github/license/hellolin-oi/zroi23?style=for-the-badge&color=green) ![](https://img.shields.io/github/stars/hellolin-oi/zroi23?style=for-the-badge&color=navy) ![](https://img.shields.io/github/commit-activity/t/hellolin-oi/zroi23?style=for-the-badge&color=red)
 
-![](https://img.shields.io/github/license/hellolin-oi/zroi23?style=for-the-badge&color=green) ![](https://img.shields.io/github/forks/hellolin-oi/zroi23?style=for-the-badge&color=darkgreen) ![](https://img.shields.io/github/commit-activity/t/hellolin-oi/zroi23?style=for-the-badge&color=red)
+[B 班 Workbook](https://vjudge.net/article/3908)
+
+[**[AD] Wonderful Luogu**](https://argon.hellolin.cf/)
 
 ## Important | Read first
 
@@ -295,10 +297,11 @@
 
 ### Day14 - 2023.07.30
 
-- 专题：筛法（埃⽒筛、线性筛、杜教筛、min25筛 $^\dag$）、莫⽐乌斯反演、狄利克雷卷积
-- 讲师：To be updated
-- 题目：To be updated
+- 专题：筛法（埃⽒筛、线性筛、杜教筛、Powerful Number 筛 $^{\dag \ddag}$、 min25筛 $^\dag$）、莫⽐乌斯反演、狄利克雷卷积
+- 讲师：罗恺
+- 题目：17 道
 
+[problem:洛谷-P1835]
 [problem:AtCoder-abc170_d]
 [problem:洛谷-P3455]
 [problem:洛谷-P2522]
@@ -307,6 +310,7 @@
 [problem:洛谷-P1447]
 [problem:洛谷-P1829]
 [problem:洛谷-P3327]
+[problem:洛谷-P4240]
 [problem:洛谷-P4213]
 [problem:洛谷-P5325]
 [problem:LibreOJ-6053]
@@ -321,7 +325,7 @@
 **后注**
 
 $^\dag$: 带有此标记的内容是选讲内容。  
-$^\ddag$: 带有此标记的内容是附加内容（并非选讲）。如果被标记的内容在之后的课程中出现，会使用<del>删除线</del>划去。
+$^\ddag$: 带有此标记的内容是附加内容（若标记单独出现，并非选讲）。如果被标记的内容在之后的课程中出现，会使用<del>删除线</del>划去。
 
 ---
 
