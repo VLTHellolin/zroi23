@@ -1,9 +1,16 @@
+<div align="center">
+<h2>
+ZR 2023 Summer <a href="/">A</a> / <a href="/article/3908">B</a> / C / <a href="/article/3910">D</a> Workbook
+</h2>
+<h5>
+<i>Unoffcial collection. Made by <a href="https://hellolin.cf/" target="_blank">hellolin</a>.</i>
+</h5>
+<a href="https://github.com/hellolin-oi/zroi23" target="_blank">GitHub Repo</a>
+<br/>
+<a href="https://argon.hellolin.cf/" target="_blank"><strong>[AD] Wonderful Luogu</strong></a>
+</div>
 
-[我的写题代码仓库](https://github.com/hellolin-oi/zroi23) ![](https://img.shields.io/github/license/hellolin-oi/zroi23?style=for-the-badge&color=green) ![](https://img.shields.io/github/stars/hellolin-oi/zroi23?style=for-the-badge&color=navy) ![](https://img.shields.io/github/commit-activity/t/hellolin-oi/zroi23?style=for-the-badge&color=red)
-
-[B 班 Workbook](https://vjudge.net/article/3908)
-
-[**[AD] Wonderful Luogu**](https://argon.hellolin.cf/)
+---
 
 ## Important | Read first
 
@@ -101,7 +108,7 @@
 
 ### Day5 - 2023.07.21
 
-- 专题：树上信息维护（树链剖分、可并堆、启发式合并）、可持久化数据结构、重链剖分 $^\ddag$、树上启发式合并 $^\ddag$、点分治 $^\ddag$
+- 专题：树上信息维护（树链剖分、可并堆、启发式合并）、可持久化数据结构、重链剖分 $^\ddag$、点分治 $^\ddag$
 - 讲师：高麟翔
 - 题目：16 道
 
@@ -256,7 +263,7 @@
 ### Day12 - 2023.07.28
 
 - 欢乐 ACM 赛。
-- [比赛链接](https://vjudge.net/contest/570501)
+- [比赛链接](/contest/570501)
 - 整理：徐锐扬
 - 题目：11 道
 - 时长：5 小时
@@ -319,6 +326,36 @@
 [problem:LibreOJ-6686]
 [problem:洛谷-P1587]
 
+### Day15 - 2023.07.31
+
+- 专题：组合数学（容斥原理、树prufer序、Matrix-Tree定理、LGV引理 $^\dag$）
+- 讲师：王泽远
+- 题目：11 道
+
+[problem:CodeForces-838D]
+[problem:CodeForces-1036F]
+[problem:CodeForces-1043F]
+[problem:CodeForces-997C]
+[problem:CodeForces-1096E]
+[problem:LibreOJ-575]
+[problem:洛谷-P3317]
+[problem:QOJ-5412]
+[problem:洛谷-P7736]
+[problem:洛谷-P6657]
+[problem:洛谷-P7737]
+
+### Day16 - 2023.08.01
+
+- 专题：概率期望、多项式、⽣成函数
+- 讲师：吕秋实
+- 题目：6 道
+
+[problem:CodeForces-280C]
+[problem:Gym-101234D]
+[problem:CodeForces-1097D]
+[problem:CodeForces-1187F]
+[problem:LibreOJ-2552]
+[problem:CodeForces-1842G]
 
 ---
 
