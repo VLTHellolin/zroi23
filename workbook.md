@@ -357,6 +357,20 @@ ZR 2023 Summer <a href="/">A</a> / <a href="/article/3908">B</a> / C / <a href="
 [problem:LibreOJ-2552]
 [problem:CodeForces-1842G]
 
+### Day17 - 2023.08.02
+
+- 专题：博弈论、SG函数
+- 讲师：吕秋实
+- 题目：To be updated
+
+[problem:POJ-2348]
+[problem:CodeForces-1033C]
+[problem:CodeForces-1396B]
+[problem:CodeForces-1190B]
+[problem:POJ-1704]
+[problem:CodeForces-1464E]
+[problem:CodeForces-1628D1]
+
 ---
 
 **后注**
