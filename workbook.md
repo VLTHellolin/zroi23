@@ -12,7 +12,11 @@ ZR 2023 Summer <a href="/">A</a> / <a href="/article/3908">B</a> / C / <a href="
 
 ---
 
-## Important | Read first
+## Congratulations!
+
+ZR 2023 Summer C Workbook(Unofficial) 已经突破 1000 Views!
+
+## Important & Read first
 
 请选择右上角的 `Mixed View` 获得最好的阅读体验。  
 如果您是第一次做这个 Workbook，请点击右上角的 `Join` 获得更好的做题体验。  
@@ -280,7 +284,7 @@ ZR 2023 Summer <a href="/">A</a> / <a href="/article/3908">B</a> / C / <a href="
 [problem:Gym-104160L]
 [problem:Gym-103960I]
 
-## 第三模块 - 数论 - Day13~19
+## 第三模块 - 数学、数论 - Day13~19
 
 ### Day13 - 2023.07.29
 
@@ -361,15 +365,43 @@ ZR 2023 Summer <a href="/">A</a> / <a href="/article/3908">B</a> / C / <a href="
 
 - 专题：博弈论、SG函数
 - 讲师：吕秋实
-- 题目：To be updated
+- 题目：8 道
 
 [problem:POJ-2348]
 [problem:CodeForces-1033C]
 [problem:CodeForces-1396B]
 [problem:CodeForces-1190B]
+[problem:洛谷-P2197]
 [problem:POJ-1704]
 [problem:CodeForces-1464E]
 [problem:CodeForces-1628D1]
+
+### Day17_Additional - 2023.08.02
+
+- 模拟赛。
+- 出题：不知道
+- 题目：3 道
+- 时长：3 小时
+
+### Day18 - 2023.08.03
+
+- 专题：构造
+- 讲师：吕秋实
+- 题目：理论上是 10 道
+
+[problem:洛谷-P8880]
+[problem:CodeForces-819E]
+[problem:UniversalOJ-460]
+[problem:Gym-101173D]
+[problem:Gym-103446K]
+[problem:CodeForces-1695E]
+
+### Day19 - 2023.08.04
+
+- 模拟赛。
+- 出题：吕秋实
+- 题目：4 道
+- 时长：3.5 小时
 
 ---
 
