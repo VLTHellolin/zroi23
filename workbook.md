@@ -112,7 +112,7 @@ ZR 2023 Summer C Workbook(Unofficial) 已经突破 1000 Views!
 
 ### Day5 - 2023.07.21
 
-- 专题：树上信息维护（树链剖分、可并堆、启发式合并）、可持久化数据结构、重链剖分 $^\ddag$、点分治 $^\ddag$
+- 专题：树上信息维护（树链剖分、可并堆、启发式合并）、可持久化数据结构、点分治 $^\ddag$
 - 讲师：高麟翔
 - 题目：16 道
 
@@ -402,6 +402,51 @@ ZR 2023 Summer C Workbook(Unofficial) 已经突破 1000 Views!
 - 出题：吕秋实
 - 题目：4 道
 - 时长：3.5 小时
+
+## 第四模块 - 字符串 - Day20~24
+
+### Day20 - 2023.08.05
+
+- 专题：基础字符串算法（Hash、Trie、最小表示法、KMP、Manacher）
+- 讲师：吕秋实
+- 题目：12 道
+
+[problem:CodeForces-1109B]
+[problem:洛谷-P2757]
+[problem:洛谷-P8306]
+[problem:CodeForces-888G]
+[problem:HDU-2609]
+[problem:洛谷-P3805]
+[problem:洛谷-P4287]
+[problem:洛谷-P5446]
+[problem:洛谷-P3375]
+[problem:洛谷-P5410]
+[problem:CodeForces-1137B]
+[problem:洛谷-P2375]
+
+### Day21 - 2023.08.06
+
+- 专题：进阶算法（扩展KMP、AC自动机、回文树）
+- 讲师：yny
+- 题目：TBU
+
+[problem:黑暗爆炸-4974]
+[problem:LibreOJ-10035]
+[problem:洛谷-P2375]
+[problem:洛谷-P7114]
+[problem:LibreOJ-537]
+[problem:LibreOJ-10059]
+[problem:洛谷-P2414]
+[problem:AtCoder-arc141_f]
+[problem:洛谷-P4555]
+[problem:洛谷-P4287]
+[problem:洛谷-P4762]
+[problem:CodeForces-932G]
+[problem:LibreOJ-3089]
+[problem:CodeForces-1313E]
+[problem:UniversalOJ-172]
+[problem:UniversalOJ-476]
+
 
 ---
 
