@@ -14,7 +14,7 @@ ZR 2023 Summer <a href="/">A</a> / <a href="/article/3908">B</a> / C / <a href="
 
 ## Congratulations!
 
-ZR 2023 Summer C Workbook(Unofficial) 已经突破 1000 Views!
+ZR 2023 Summer C Workbook(Unofficial) 已经突破 1500 Views!
 
 ## Important & Read first
 
@@ -266,7 +266,7 @@ ZR 2023 Summer C Workbook(Unofficial) 已经突破 1000 Views!
 
 ### Day12 - 2023.07.28
 
-- 欢乐 ACM 赛。
+- 欢乐 ACM 赛（CD）。
 - [比赛链接](/contest/570501)
 - 整理：徐锐扬
 - 题目：11 道
@@ -428,7 +428,7 @@ ZR 2023 Summer C Workbook(Unofficial) 已经突破 1000 Views!
 
 - 专题：进阶算法（扩展KMP、AC自动机、回文树）
 - 讲师：yny
-- 题目：TBU
+- 题目：16 道
 
 [problem:黑暗爆炸-4974]
 [problem:LibreOJ-10035]
@@ -447,6 +447,118 @@ ZR 2023 Summer C Workbook(Unofficial) 已经突破 1000 Views!
 [problem:UniversalOJ-172]
 [problem:UniversalOJ-476]
 
+### Day22 - 2023.08.07
+
+- 专题：后缀数组与后缀⾃动机（⼴义 SAM $^\dag$）
+- 讲师：yny
+- 题目：5 道
+
+[problem:LibreOJ-2377]
+[problem:LibreOJ-2083]
+[problem:LibreOJ-2133]
+[problem:LibreOJ-6401]
+[problem:CodeForces-666E]
+
+### Day23 - 2023.08.08
+
+- 专题：趣题（杂题）选做
+- 讲师：yny
+- 题目：14 道
+
+[problem:洛谷-P5404] **The same as UniversalOJ-476**
+[problem:洛谷-P3980]
+[problem:AtCoder-arc144_d]
+[problem:AtCoder-agc058_b]
+[problem:LibreOJ-560]
+[problem:AtCoder-agc058_c]
+[problem:LibreOJ-6709]
+[problem:洛谷-P2481]
+[problem:洛谷-P3772]
+[problem:洛谷-P3726]
+[problem:CodeForces-1774F1]
+[problem:CodeForces-1774F2]
+[problem:CodeForces-1770E]
+[problem:CodeForces-1654E]
+
+### Day23_Additional - 2023.08.08
+
+- 模拟赛。
+- 出题：不知道
+- 题目：3 道
+- 时长：3 小时
+
+### Day24 - 2023.08.09
+
+- 欢乐 ACM 赛（ABCD）。
+- [比赛链接](/contest/573830)
+- 整理：hwy
+- 题目：12 道
+- 时长：5 小时
+
+[problem:Gym-104053E]
+[problem:Gym-104053H]
+[problem:Gym-104053L]
+[problem:CodeForces-1394C]
+[problem:Gym-103640K]
+[problem:Gym-103048K]
+[problem:Gym-103640F]
+[problem:CodeForces-1303G]
+[problem:Gym-102978F]
+[problem:CodeForces-1333F]
+[problem:Gym-102978I]
+[problem:Gym-104460L]
+
+### Day25 - 2023.08.10
+
+- 专题：基础图论（拓扑排序、最短路、最小⽣成树、强连通、双连通、Tarjan 算法）
+- 讲师：dcx
+- 题目：45 道
+
+[problem:洛谷-P4151]
+[problem:UniversalOJ-513]
+[problem:CodeForces-528C]
+[problem:黑暗爆炸-3569]
+[problem:洛谷-P1347]
+[problem:黑暗爆炸-4562]
+[problem:黑暗爆炸-2109]
+[problem:黑暗爆炸-4010]
+[problem:洛谷-P7831]
+[problem:洛谷-P5284]
+[problem:洛谷-P4779]
+[problem:洛谷-P5471]
+[problem:UniversalOJ-512]
+[problem:黑暗爆炸-1641]
+[problem:洛谷-B3611]
+[problem:洛谷-P3366]
+[problem:CodeForces-888G]
+[problem:Baekjoon-17462]
+[problem:HDU-6722]
+[problem:黑暗爆炸-2180]
+[problem:LibreOJ-2469]
+[problem:洛谷-P3684]
+[problem:洛谷-P4768]
+[problem:洛谷-P8435]
+[problem:洛谷-P8436]
+[problem:洛谷-B3609]
+[problem:CodeForces-160D]
+[problem:洛谷-P7123]
+[problem:UniversalOJ-117]
+[problem:Baekjoon-20086]
+[problem:Baekjoon-13973]
+[problem:洛谷-P4782]
+[problem:洛谷-P3825]
+[problem:LibreOJ-6036]
+[problem:洛谷-P5297]
+[problem:黑暗爆炸-2612]
+[problem:洛谷-P5960]
+[problem:洛谷-P1129]
+[problem:洛谷-P1969]
+[problem:HDU-6184]
+[problem:LibreOJ-6076]
+[problem:HDU-5960]
+[problem:LibreOJ-6254]
+[problem:LibreOJ-3322]
+[problem:洛谷-P5163]
 
 ---
 
