@@ -376,9 +376,7 @@ ZR 2023 Summer C Workbook(Unofficial) 已经突破 1500 Views!
 [problem:CodeForces-1464E]
 [problem:CodeForces-1628D1]
 
-### Day17_Additional - 2023.08.02
-
-- 模拟赛。
+- 附加模拟赛。
 - 出题：不知道
 - 题目：3 道
 - 时长：3 小时
@@ -480,9 +478,7 @@ ZR 2023 Summer C Workbook(Unofficial) 已经突破 1500 Views!
 [problem:CodeForces-1770E]
 [problem:CodeForces-1654E]
 
-### Day23_Additional - 2023.08.08
-
-- 模拟赛。
+- 附加模拟赛。
 - 出题：不知道
 - 题目：3 道
 - 时长：3 小时
@@ -504,15 +500,17 @@ ZR 2023 Summer C Workbook(Unofficial) 已经突破 1500 Views!
 [problem:Gym-103640F]
 [problem:CodeForces-1303G]
 [problem:Gym-102978F]
-[problem:CodeForces-1333F]
+[problem:CodeForces-1333E]
 [problem:Gym-102978I]
 [problem:Gym-104460L]
+
+## 第五模块 - 图论 - Day25~30
 
 ### Day25 - 2023.08.10
 
 - 专题：基础图论（拓扑排序、最短路、最小⽣成树、强连通、双连通、Tarjan 算法）
 - 讲师：dcx
-- 题目：45 道
+- 题目：28 道
 
 [problem:洛谷-P4151]
 [problem:UniversalOJ-513]
@@ -542,7 +540,15 @@ ZR 2023 Summer C Workbook(Unofficial) 已经突破 1500 Views!
 [problem:洛谷-B3609]
 [problem:CodeForces-160D]
 [problem:洛谷-P7123]
+
+### Day26 - 2023.08.11
+
+- 专题：同余 BFS、差分约束、2-SAT、Tarjan LCA、欧拉回路、三四元环、最小树形图
+- 讲师：dcx
+- 题目：18 道
+
 [problem:UniversalOJ-117]
+[problem:CodeForces-547D]
 [problem:Baekjoon-20086]
 [problem:Baekjoon-13973]
 [problem:洛谷-P4782]
@@ -551,7 +557,7 @@ ZR 2023 Summer C Workbook(Unofficial) 已经突破 1500 Views!
 [problem:洛谷-P5297]
 [problem:黑暗爆炸-2612]
 [problem:洛谷-P5960]
-[problem:洛谷-P1129]
+[problem:洛谷-P7515]
 [problem:洛谷-P1969]
 [problem:HDU-6184]
 [problem:LibreOJ-6076]
@@ -559,6 +565,63 @@ ZR 2023 Summer C Workbook(Unofficial) 已经突破 1500 Views!
 [problem:LibreOJ-6254]
 [problem:LibreOJ-3322]
 [problem:洛谷-P5163]
+
+### Day27 - 2023.08.12
+
+- 专题：二分图匹配（匈牙利算法、KM 算法）、网络流算法（EK、Dinic、费用流）
+- 讲师：dcx
+- 题目：23 题
+
+[problem:黑暗爆炸-1143]
+[problem:黑暗爆炸-2437]
+[problem:LibreOJ-6062]
+[problem:黑暗爆炸-4788]
+[problem:洛谷-P6577]
+[problem:洛谷-P3376]
+[problem:洛谷-P2766]
+[problem:洛谷-P3254]
+[problem:黑暗爆炸-1066]
+[problem:LibreOJ-6003]
+[problem:CodeForces-1404E]
+[problem:洛谷-P2762]
+[problem:黑暗爆炸-1391]
+[problem:黑暗爆炸-3144]
+[problem:黑暗爆炸-4663] 若显示 N/A 直接点即可
+[problem:TopCoder-14719]
+[problem:黑暗爆炸-3894]
+[problem:黑暗爆炸-3774]
+[problem:黑暗爆炸-2039]
+[problem:黑暗爆炸-3218]
+[problem:CodeForces-1517G]
+[problem:Gym-103861H]
+[problem:洛谷-P3381]
+
+### Day28 - 2023.08.13
+
+- 专题：线性规划与对偶、网络流建模、增流退流、上下界流 $^\dag$
+- 讲师：dcx
+- 题目：20 道
+
+[problem:洛谷-P3357]
+[problem:洛谷-P7425]
+[problem:LibreOJ-6079]
+[problem:LibreOJ-6068]
+[problem:黑暗爆炸-1070]
+[problem:黑暗爆炸-2879]
+[problem:洛谷-P4249]
+[problem:洛谷-P4003]
+[problem:CodeForces-1288F]
+[problem:洛谷-P2304]
+[problem:洛谷-P3980]
+[problem:洛谷-P3308]
+[problem:CodeForces-671D]
+[problem:黑暗爆炸-2034]
+[problem:黑暗爆炸-5326] 缺题
+[problem:CodeForces-1209H]
+[problem:洛谷-P5653]
+[problem:黑暗爆炸-4977]
+[problem:洛谷-P4011]
+[problem:Gym-102201J]
 
 ---
 
