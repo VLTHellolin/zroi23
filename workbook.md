@@ -12,9 +12,15 @@ ZR 2023 Summer <a href="/">A</a> / <a href="/article/3908">B</a> / C / <a href="
 
 ---
 
-## Congratulations!
+## Note
 
-ZR 2023 Summer C Workbook(Unofficial) 已经突破 1500 Views!
+ZR 2023 Summer 集训课程已于 2023.08.15 结束。
+
+除了更新错题漏题之外，本题单将不会增加任何新题目。
+
+## Congratulations!!!
+
+ZR 2023 Summer C Workbook(Unofficial) 已经突破 **2000** Views!
 
 ## Important & Read first
 
@@ -216,7 +222,7 @@ ZR 2023 Summer C Workbook(Unofficial) 已经突破 1500 Views!
 
 ### Day10 - 2023.07.26
 
-- 专题： dp优化（四边形不等式、斜率优化、决策单调性、CDQ分治、数据结构）
+- 专题：dp优化（四边形不等式、斜率优化、决策单调性、CDQ分治、数据结构）
 - 讲师：李昕然
 - 题目：9 + 4 = 13 道
 
@@ -622,6 +628,34 @@ ZR 2023 Summer C Workbook(Unofficial) 已经突破 1500 Views!
 [problem:黑暗爆炸-4977]
 [problem:洛谷-P4011]
 [problem:Gym-102201J]
+
+- 附加模拟赛。
+- 出题：不知道
+- 题目：5 道
+- 时长：3 小时
+
+## Day29 - 2023.08.14
+
+- 专题：杂题选讲
+- 讲师：叶子川
+- 题目：8 道
+
+[problem:CodeForces-1364D]
+[problem:CodeForces-1103C]
+[problem:LibreOJ-3176]
+[problem:QOJ-5254]
+[problem:CodeForces-1746F]
+[problem:CodeForces-1479D]
+[problem:洛谷-P8819]
+[problem:QOJ-5825]
+
+## Day30 - 2023.08.15
+
+- 模拟赛（CD 联考）。
+- 出题：花花
+- 题目：4 道
+- 时长：4 小时
+
 
 ---
 
