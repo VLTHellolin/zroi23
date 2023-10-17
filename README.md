@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> 已弃用。请转到 [hellolin-oi/CP-Code](https://github.com/hellolin-oi/CP-Code)。
+
+
 <div align="center">
     <img alt="top" src="./img/top.png" width="150" style="border-radius: 25px;" />
     <br/>
